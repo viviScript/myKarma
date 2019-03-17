@@ -1,0 +1,3 @@
+language: javascript
+xcode_project: myKarma.travis.yml
+xcode_scheme: myKarma.test
